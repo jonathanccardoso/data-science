@@ -6,6 +6,18 @@
 
 - [Python data visualization using library matplotlib](https://github.com/jonathanccardoso/data-science/blob/master/graficos/)
 
+## Tools
+
+- Python
+	- VirtualEnv
+		- Ferramenta virtual das aplicações Python
+	- Pip
+		- Ferramenta de gerenciamento de dependências
+- Jupyter
+	- Para que as pessoas possam fazer computação científica e ciência de dados de maneira iterativa e em várias linguagens
+- R-studio
+	- Engloba script, interpretador e variáveis disponíveis para trabalhar usando Python, o R-Studio permite a mesma coisa para a linguagem de programação R.
+
 <!--
 ## Annotations
 
